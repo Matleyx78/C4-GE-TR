@@ -5,8 +5,7 @@
     "require": {
         "php": "^8.0",
         "nelexa/zip": "*",
-        "phpoffice/phpspreadsheet": "*",
-        //"matleyx/ci4-fpf": "*"
+        "phpoffice/phpspreadsheet": "*"
     },
     "autoload": {
         "psr-4": {
