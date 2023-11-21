@@ -6,7 +6,7 @@
         "php": "^8.0",
         "nelexa/zip": "*",
         "phpoffice/phpspreadsheet": "*",
-        "matleyx/ci4-fpf": "*",
+        "matleyx/ci4-fpf": "*"
     },
     "autoload": {
         "psr-4": {
