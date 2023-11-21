@@ -1,0 +1,16 @@
+{
+    "name": "matleyx/c4-ge-tr",
+    "description": "Tr for Ge in c4",
+    "license": "MIT",
+    "require": {
+        "php": "^8.0",
+        "nelexa/zip": "*",
+        "phpoffice/phpspreadsheet": "*",
+        "matleyx/ci4-fpf": "*",
+    },
+    "autoload": {
+        "psr-4": {
+            "Matleyx\\C4GETR\\": "src"
+        }
+    }
+}
